@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bismat/static/css/main.1dbe4b45.css",
+    "main.js": "/bismat/static/js/main.e0b43bb6.js",
+    "static/media/icon-01.png": "/bismat/static/media/icon-01.e223542e02c17c136b35.png",
+    "index.html": "/bismat/index.html",
+    "main.1dbe4b45.css.map": "/bismat/static/css/main.1dbe4b45.css.map",
+    "main.e0b43bb6.js.map": "/bismat/static/js/main.e0b43bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dbe4b45.css",
+    "static/js/main.e0b43bb6.js"
+  ]
+}
